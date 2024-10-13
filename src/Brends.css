@@ -1,0 +1,92 @@
+/* Brends.css */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid #ddd;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    text-align: center;
+    font-size: 17px;
+}
+
+img {
+    width: 70px;
+}
+
+.add-brend-form {
+    margin-top: 70px;
+    background-color: #ecebeb;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(23, 5, 5, 0.1);
+}
+
+.add-brend-form input {
+    display: block;
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+.add-brend-form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.add-brend-form button {
+    padding: 10px 20px;
+    background-color: #835a0a;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.add-brend-form button:hover {
+    background-color: #4c3e07;
+}
+
+.btn-first {
+    background-color: #835a0a;
+    color: white;
+    margin-bottom: 5px;
+    margin-left: 9px;
+}
+
+.btn {
+    background-color: #835a0a;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #4c3e07;
+}

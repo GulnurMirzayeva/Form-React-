@@ -1,0 +1,54 @@
+{
+  "brends": [
+    {
+      "id": "1",
+      "name": "Zara",
+      "creator": "Amancio Ortega",
+      "dateOfEstablishment": "1975",
+      "locationOfHeadquarters": "La Coruna",
+      "industry": "Clothing",
+      "logo": "https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Ffilestack%2Fz2OC32OLSkWODRkgwZnZ_c2101aa153fda068b36023e9191e4b4e.png?auth=0d905e18bf59bb456c77d06b94e08275dd8c62e1c48130048f96ae28ed4023f6&width=480",
+      "description": "Zara is a Spanish clothing and accessories retailer based in Arteixo, Gal"
+    },
+    {
+      "id": "4",
+      "name": "Adidas",
+      "creator": "Adolf Dassler",
+      "dateOfEstablishment": "1924",
+      "locationOfHeadquarters": "Herzogenaurach, Germany",
+      "industry": "Clothing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfVhhbyXuyCtG8D4_kmglIBVfgC6Xk5h0wDQ&s",
+      "description": "Adidas AG is a German multinational corporation that designs and manufactures shoes"
+    },
+    {
+      "id": "5",
+      "name": "Gucci",
+      "creator": "Guccio Gucci",
+      "dateOfEstablishment": "1921",
+      "locationOfHeadquarters": "Florence, Italy",
+      "industry": "Clothing",
+      "logo": "https://logoeps.com/wp-content/uploads/2011/08/gucci-logo.jpg",
+      "description": "Gucci is an Italian luxury brand of fashion and leather goods, part of"
+    },
+    {
+      "id": "6",
+      "name": "Lacoste",
+      "creator": "René Lacoste",
+      "dateOfEstablishment": "1933",
+      "locationOfHeadquarters": "Courcouronnes, France",
+      "industry": "Clothing",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNqT7u7YhVWTSBGiVSvaVfZfDdzNlve6LBGg&s",
+      "description": "Lacoste is a French clothing company that was founded in 1933"
+    },
+    {
+      "id": "7",
+      "name": "Puma",
+      "creator": "Rudolf Dassler",
+      "dateOfEstablishment": "444",
+      "locationOfHeadquarters": "Herzogenaurach, Germany",
+      "industry": "Clothing",
+      "logo": "https://1000logos.net/wp-content/uploads/2017/05/PUMA-logo.jpg",
+      "description": "Puma is a leading global brand in athletic and casual footwear, apparel, and accessories, founded by Rudolf Dassler in 1948."
+    }
+  ]
+}
